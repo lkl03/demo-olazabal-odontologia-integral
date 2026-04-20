@@ -1,2 +1,7 @@
-# demo-olazabal-odontologia-integral
-Demo web para Olazábal Odontología Integral — diseñada por eterlab.
+# Olazábal Odontología Integral
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
